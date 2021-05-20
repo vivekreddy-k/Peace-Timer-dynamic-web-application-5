@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background: linear-gradient(#189ffd, #29f39c);
+    height: 100vh;
+}
+
+.peace-container {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.peace-heading {
+    font-size: 34px;
+    font-weight: 500;
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+.peace-paragraph {
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Roboto";
+    color: #616e7c;
+}
+
+.peace-heading-2 {
+    font-size: 28px;
+    font-weight: 500;
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+.buttons-list-container {
+    list-style: none;
+}
+
+.list-button {
+    background-color: #05a8f2;
+    margin: 5px;
+    border-radius: 5px;
+    color: white;
+    border-width: 0px;
+    font-size: 18px;
+    font-family: "Roboto";
+    padding: 10px;
+}
+
+.timer-display {
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Roboto";
+}
